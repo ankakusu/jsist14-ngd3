@@ -1,0 +1,52 @@
+map-canvas{
+  display: inline-block;
+  margin: 1em;
+  path {
+    stroke: white;
+    stroke-width: 0.25px;
+    fill: grey;
+  }
+}
+
+.map-form{
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+input{
+  font-size: 1em;
+}
+
+button{
+  font-size: 1em;
+}
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+.inline{
+  display: inline-block;
+}
+
+.in{
+  display: inline;
+}
