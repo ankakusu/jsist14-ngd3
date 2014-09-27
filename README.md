@@ -42,6 +42,6 @@ page on your browser.
 
 FYI: I developed it in Chrome, never tried on other browsers.
   
-I'm looking forward for your suggestions, comments!
+I'm looking forward for your suggestions, comments and questions!
 
 Thanks for visiting this page.
